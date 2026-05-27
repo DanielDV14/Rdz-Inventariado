@@ -74,8 +74,14 @@ bash   git clone https://github.com/DanielDV14/Rdz-inventariado.git
 5. Configura la conexión a la base de datos en conexion.php:
 
   |php   $servidor = "localhost";|
+  |------------------------------|
+  
   |$usuario  = "root";           |
+  |------------------------------|
+  
   |$password = "TU_CONTRASEÑA";  |
+  |------------------------------|
+  
   |$bd       = "rdz";            |
   |------------------------------|
 
