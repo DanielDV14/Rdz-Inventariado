@@ -1,29 +1,30 @@
 RDz Cycling Shop — Sistema de Inventariado
 Sistema web de gestión e inventariado desarrollado para RDz Cycling Shop, una tienda especializada en ciclismo. Permite administrar productos, clientes, proveedores, ventas, créditos y generar reportes de gestión completos.
 
-📋 Módulos del sistema
-🗂️ Catálogo
-    Gestión de productos con imágenes, precios y stock
-    Gestión de categorías para organizar el catálogo
+📋 Módulos del sistema:
 
-👥 Personas
-    Ingreso, edición y eliminación de clientes
-    Ingreso, edición y eliminación de proveedores
+    🗂️ Catálogo
+        Gestión de productos con imágenes, precios y stock
+        Gestión de categorías para organizar el catálogo
 
-🛒 Operaciones
-    Registro de ventas con múltiples tipos de pago (contado, crédito, etc.)
-    Comprobantes de proveedor para control de compras e ingresos
-    Créditos con seguimiento de cuotas y estado de mora
-    Pagos de cuotas con historial detallado
+    👥 Personas
+            Ingreso, edición y eliminación de clientes
+            Ingreso, edición y eliminación de proveedores
 
-⚙️ Configuración
-    Canales de venta (tienda física, online, etc.)
-    Paqueterías para envíos
-    Tipos de pago configurables
+    🛒 Operaciones
+            Registro de ventas con múltiples tipos de pago (contado, crédito, etc.)
+            Comprobantes de proveedor para control de compras e ingresos
+            Créditos con seguimiento de cuotas y estado de mora
+            Pagos de cuotas con historial detallado
 
-👤 Usuarios
-    Sistema de login con sesiones PHP
-    Cambio de estado y gestión de usuarios
+    ⚙️ Configuración
+            Canales de venta (tienda física, online, etc.)
+            Paqueterías para envíos
+            Tipos de pago configurables
+    
+    👤 Usuarios
+            Sistema de login con sesiones PHP
+            Cambio de estado y gestión de usuarios
 
 📊 Reportes
 Categoría
