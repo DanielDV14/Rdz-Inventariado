@@ -28,16 +28,17 @@ Sistema web de gestión e inventariado desarrollado para RDz Cycling Shop, una t
 
 📊 Reportes
 Categorías:
+
     Ventas: 
-      Ventas por tiempo, por canal, por tipo de pago, productividad por usuario, mora en créditos, cuotas pagadas
+      ➞,Ventas por tiempo, por canal, por tipo de pago, productividad por usuario, mora en créditos, cuotas pagadas
     Gestión:
-      Stock mínimo, productos estancados, valor total de inventario, utilidad bruta por producto, productos más comprados
+      ➞Stock mínimo, productos estancados, valor total de inventario, utilidad bruta por producto, productos más comprados
     Clientes:
-      Clientes perdidos, promedio de compras, tasa de recurrencia, dinero por cliente
+      ➞,Clientes perdidos, promedio de compras, tasa de recurrencia, dinero por cliente
     Logística:
-      Tasa de devoluciones, uso de paqueterías, mapa de calor de envíos
+      ➞,Tasa de devoluciones, uso de paqueterías, mapa de calor de envíos
     Proveedores:
-      Cambios de precios, variación de precios, revisión pagado vs. ingresado
+     ➞ Cambios de precios, variación de precios, revisión pagado vs. ingresado
 
 🛠️ Stack tecnológico
 
@@ -86,7 +87,8 @@ bash   git clone https://github.com/DanielDV14/Rdz-inventariado.git
    |-------------------------------|
 
 
-        📁 Estructura del proyecto
+   📁 Estructura del proyecto
+   
         rdz/
         ├── Css/                        # Hojas de estilo por módulo
         ├── Js/                         # Scripts de formularios dinámicos
@@ -102,5 +104,5 @@ bash   git clone https://github.com/DanielDV14/Rdz-inventariado.git
         ├── navbar.php                  # Navegación global
         └── ...                         # Módulos CRUD por entidad
 
-✍️ Autor
+
 Desarrollado para RDz Cycling Shop por Daniel Díaz.
