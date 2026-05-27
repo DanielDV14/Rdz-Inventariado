@@ -56,33 +56,31 @@ Pasos
 
 1. Clona el repositorio:
 
-bash   git clone https://github.com/tu-usuario/rdz-inventario.git
+bash   git clone https://github.com/DanielDV14/Rdz-inventariado.git
 
 2. Copia la carpeta del proyecto a tu directorio web:
 
-  |---------------------|
+
   | /xampp/htdocs/rdz/  |
   |---------------------|
   
 3. Crea la base de datos en MySQL:
 
-  |---------------------------|
   |sql   CREATE DATABASE rdz; |
   |---------------------------|
 
 4. Importa el archivo SQL del proyecto.
 
 5. Configura la conexión a la base de datos en conexion.php:
-  _______________________________
+
   |php   $servidor = "localhost";|
   |$usuario  = "root";           |
   |$password = "TU_CONTRASEÑA";  |
   |$bd       = "rdz";            |
-  |______________________________|
+  |------------------------------|
 
 6. Abre el sistema en tu navegador:
-   
-   |-------------------------------|
+
    |http://localhost/rdz/index.php |
    |-------------------------------|
 
